@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "FOR_T1.C": "cpp",
+        "FOR_T4.C": "cpp",
+        "ARRAY_T2.C": "cpp",
+        "ARRAY_T9.C": "cpp",
+        "ARRAY_11.C": "cpp",
+        "CHOOSENU.C": "cpp",
+        "ARRAY_10.C": "cpp",
+        "ARRAY_T4.C": "cpp",
+        "ARRAY_T1.C": "cpp",
+        "ARRAY_T3.C": "cpp",
+        "ARRAY_13.C": "cpp",
+        "ARRAY_14.C": "cpp",
+        "ARRAY_7.C": "cpp",
+        "ARRAY_T8.C": "cpp",
+        "ARRAY_T5.C": "cpp",
+        "ARRAY_12.C": "cpp",
+        "ARRAY_T6.C": "cpp"
+    }
+}
